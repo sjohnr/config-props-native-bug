@@ -12,7 +12,7 @@ config-props-native-bug
 ```
 myString=string
 myFlag=true
-anotherString=test
+anotherString=another-string
 anotherFlag=true
 ```
 
