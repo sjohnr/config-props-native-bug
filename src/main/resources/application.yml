@@ -1,0 +1,7 @@
+my:
+  props:
+    my-string: string
+    my-flag: true
+    nested-props:
+      another-string: another-string
+      another-flag: true
